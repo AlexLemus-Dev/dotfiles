@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+
+# Swap/backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Node/npm (if ever used)
+node_modules/
+
+# Python (if ever used)
+__pycache__/
+*.pyc
+
+# Other common
+Thumbs.db
+Desktop.ini
+
+# Ignore personal local config
+local.env
+.env

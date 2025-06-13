@@ -1,0 +1,5 @@
+esbenp.prettier-vscode
+asvetliakov.vscode-neovim
+pkief.material-icon-theme
+subframe7536.custom-ui-style
+josemurilloc.aura-spirit-dracula
