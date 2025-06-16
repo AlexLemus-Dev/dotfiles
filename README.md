@@ -26,5 +26,6 @@ Just run `install.sh` and it will:
   - 🗂️ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme): Beautiful file and folder icons.
   - 🎨 [Custom UI Style](https://marketplace.visualstudio.com/items?itemName=subframe7536.custom-ui-style): Customize the look and feel of VS Code UI.
   - 🌙 [Aura Spirit Dracula Theme](https://marketplace.visualstudio.com/items?itemName=josemurilloc.aura-spirit-dracula): A beautiful dark theme for VS Code.
+  - 🧪 [AI Smith: Neovim UI Modes](https://marketplace.visualstudio.com/items?itemName=ai-smith.nvim-ui-modes): Adds Neovim-like UI modes to VS Code.
 
 That's it! 🚀 This is just my way to get comfy on a new machine fast. Feel free to poke around or use what you like. 😄👍
