@@ -30,6 +30,6 @@ vim.cmd('nmap k gj')
 -- Remaps the 'l' key in normal mode to 'gk', which moves the cursor up by display line (useful for wrapped lines).
 vim.cmd('nmap l gk')
 
-- Enables system clipboard integration, allowing you to copy and paste between Neovim and other applications.
+-- Enables system clipboard integration, allowing you to copy and paste between Neovim and other applications.
 vim.opt.clipboard = 'unnamedplus'
 
